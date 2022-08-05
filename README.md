@@ -1,0 +1,2 @@
+# Personal-Gym-Trainer
+We have developed a  personal Gym Trainer using Artificial Intelligence. This gym trainer  works on a real-time basis and keeps track of the exercises performed,  repetitions in each exercise and the number of sets performed as well.  However, it will also work if one uploads an already recorded video, but  in order to make things easier we have decided to keep the monitoring in  real time.
