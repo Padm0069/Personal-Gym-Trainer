@@ -9,9 +9,9 @@ We have developed a  personal Gym Trainer using Artificial Intelligence. This gy
 **Username: admin**
 **Password: admin**
 
+## Preview
 ###Landing Page
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye1.jpg](https://github.com/Padm0069/Personal-Gym-Trainer/blob/main/Gym%20Trainer%20Landing.jpg">
+![Landing Page](https://github.com/Padm0069/Personal-Gym-Trainer/blob/main/Gym%20Trainer%20Landing.jpg)
 
 ## Hardware / Software Requirements
 The hardware interface for the user would be any PC having a 
