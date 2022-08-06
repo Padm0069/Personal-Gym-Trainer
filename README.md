@@ -25,6 +25,9 @@ For further Understanding -
 https://learnopencv.com/introduction-to-mediapipe/
 - OpenCV
 
+## Installation
+
+
 # Team Members
 1. **Saptarshee Mitra**: saptarshee08@gmail.com  
 4. **Padm Keshav**: kesavpadm2003@gmail.com
