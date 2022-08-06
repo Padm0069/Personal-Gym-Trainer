@@ -24,3 +24,9 @@ developers following its public release.
 For further Understanding -
 https://learnopencv.com/introduction-to-mediapipe/
 - OpenCV
+
+# Team Members
+1. **Saptarshee Mitra**: saptarshee08@gmail.com  
+4. **Padm Keshav**: kesavpadm2003@gmail.com
+2. **Rudhra Deep Biswas**: rudra21ultra@gmail.com
+3. **Mohammed Shabbir**: mohammedshabbir08@gmail.com
