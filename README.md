@@ -26,7 +26,12 @@ https://learnopencv.com/introduction-to-mediapipe/
 - OpenCV
 
 ## Installation
+### Dependencies
 
+1) import cv2
+2) import numpy
+3) import mediapipe
+4) import scipy
 
 # Team Members
 1. **Saptarshee Mitra**: saptarshee08@gmail.com  
