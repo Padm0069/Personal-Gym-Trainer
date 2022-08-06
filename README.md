@@ -10,7 +10,7 @@ We have developed a  personal Gym Trainer using Artificial Intelligence. This gy
 **Password: admin**
 
 ## Preview
-###Landing Page
+### Landing Page
 ![Landing Page](https://github.com/Padm0069/Personal-Gym-Trainer/blob/main/Gym%20Trainer%20Landing.jpg)
 
 ## Hardware / Software Requirements
